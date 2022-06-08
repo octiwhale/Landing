@@ -9,5 +9,8 @@ Make sure you complete the following before deploying Landing to production.
  - [ ] Set your landing heading on line 38.
  - [ ] Set your landing text on line 40.
  - [ ] Set your landing button on line 42.
- ## Hide blocks
- You can hide blocks from your landing by uncommenting them in `/assets/css/settings.css`.
+ ## Settings
+ Landing can be customized through `/assets/css/settings.css`.
+ ### Options
+ - Hide blocks
+ - Disable text selection

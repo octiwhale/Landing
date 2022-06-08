@@ -23,4 +23,14 @@
 }
 */
 
+/* Uncomment to disable text selection. */
+
+/*
+.landing-element {
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+*/
+
 /* octiwhale.com */
