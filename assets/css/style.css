@@ -1,0 +1,25 @@
+@media (prefers-color-scheme: dark) {
+  .landing-element {
+    background: #333;
+    color: white;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #333;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  body {
+    background-color: #f7f8fb;
+  }
+}
+
+@media (prefers-color-scheme: no-preference) {
+  body {
+    background-color: #f7f8fb;
+  }
+}
+
